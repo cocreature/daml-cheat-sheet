@@ -6,5 +6,5 @@
 | Compile and start sandbox | `daml start` |
 | Build project | `daml build` |
 | Start IDE | `daml studio` |
-| Upload a dar to the ledger | `daml ledger upload <dar file>` |
+| Upload a dar to the ledger | `daml ledger upload-dar <dar file>` |
 | Project configuration file | `daml.yaml` |
